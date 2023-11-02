@@ -1,2 +1,2 @@
 # quick_tools
-Userful tools for Chinese flutter developer.
+Useful tools for Chinese flutter developer.
